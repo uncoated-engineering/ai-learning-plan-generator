@@ -1,0 +1,5 @@
+{
+  "name": "AI Learning Plan Generator",
+  "description": "An application that uses the Gemini API to generate structured, step-by-step learning plans for any technical topic or certification.",
+  "requestFramePermissions": []
+}
