@@ -2,7 +2,7 @@
 import { GoogleGenAI, Type } from "@google/genai";
 import { LearningPlan, LearningModule, PracticeQuestion, MiniProject, AnswerEvaluation } from '../types';
 
-const aPIKey = "AIzaSyCUbRlj4JJyzhG4UcXzsR_bN3xHjUIRZAM"
+
 
 if (!process.env.API_KEY) {
   throw new Error("API_KEY environment variable not set");
